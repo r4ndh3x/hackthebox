@@ -1,7 +1,8 @@
 
+![](attachments/Pasted%20image%2020251016184744.png)
+
 # Hack The Box: Lame (Retired Machine)
 
-![](attachments/Pasted%20image%2020251016184744.png)
 - [1. Executive Summary](#1-executive-summary)
 - [2. Scanning & Enumeration](#2-scanning--enumeration)
 	- [2.1 Port Scan](#21-port-scan)
